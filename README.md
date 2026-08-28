@@ -31,9 +31,10 @@ Data Science Student passionate about building real-world AI applications, machi
 ---
 
 ### 📈 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkumarr11&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarr11&layout=compact&theme=radial)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumarr11&show_icons=true&theme=tokyonight" alt="Rohit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarr11&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ### 📫 Connect with Me
