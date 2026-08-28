@@ -31,11 +31,11 @@ Data Science Student passionate about building real-world AI applications, machi
 ---
 
 ### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumarr11&show_icons=true&theme=tokyonight" alt="Rohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarr11&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumarr11&theme=tokyonight" alt="Rohit's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarr11&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
----
 
 ### 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/rohityadav84) | [Portfolio](https://rohitkumarr11.github.io/rohit_portfolio) | [Email](mailto:yadavrohit8472@gmail.com)
